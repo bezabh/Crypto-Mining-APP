@@ -1,0 +1,9 @@
+Contact: security@primemine.ai
+Encryption: https://primemine.ai/pgp-key.txt
+Preferred-Languages: en, am, de
+Policy: https://primemine.ai/disclosure-policy.html
+Hiring: https://primemine.ai/careers/
+
+# Security Policy for PrimeMine AI
+# We take the security of our user's assets seriously.
+# If you have found a vulnerability, please report it immediately.

@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.primemine.ai",
+    "sha256_cert_fingerprints":
+    ["14:6D:E9:83:C5:73:06:50:D8:EE:B9:2B:25:93:33:81:72:E9:78:30:74:53:E8:78:6A:74:66:21:65:F1:AA:44"]
+  }
+}]

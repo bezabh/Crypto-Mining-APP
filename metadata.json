@@ -1,0 +1,9 @@
+{
+  "name": "TigAppMining",
+  "description": "Professional-grade crypto mining dashboard and AI optimization suite for the Tigray community. Features real-time hashrate visualization, wallet management, and Gemini-powered analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
